@@ -17,6 +17,7 @@ class MainActivity : AppCompatActivity() {
             .colorRes(R.color.design_default_color_primary,R.color.design_default_color_secondary)
             .radius(20f)
             .setBackground()
+
         bottom.setOnClickListener {  }
     }
 }
